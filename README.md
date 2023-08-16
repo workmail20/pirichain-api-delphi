@@ -1,6 +1,6 @@
-# Pirichain-api-csharp
+# Pirichain-api-delphi
 
-Package for Pirichain API calls through Delphi 10
+Units for Pirichain API calls through Delphi 10
 ============
 
 Pirichain is blockchain system that based on dPos (Delegated Proof of Stake) and has it own environment to create wallet and token, transactions, sending or storing data as a transaction, delegation.
