@@ -16,8 +16,8 @@ Usage
 ------------
 
 The unit consists of 2 use cases:
-    1. Using Indy-IdHTTP component (you need are libeay32.dll, ssleay32.dll files in release folder with .exe)
-    2. Using System.Net.HttpClient
+ 1. Using Indy-IdHTTP component (you need are libeay32.dll, ssleay32.dll files in release folder with .exe)
+ 2. Using System.Net.HttpClient
 
 ### To use Indy-IdHTTP:
 
